@@ -1,4 +1,4 @@
-This code demonstrates a way to make your app the only instance running on yor syatem.
+This code demonstrates a way to make your app the only instance running on your syatem.
 
 If you run it once the app will start.
 
